@@ -12,4 +12,4 @@ While the core functionality for static image classification has been implemente
 
 ❌ Video / Real-time Input – Missing: Real-time gesture detection from webcam/video stream has not been implemented.
 
-Despite these limitations, the project demonstrates foundational knowledge in gesture recognition and sets the stage for further improvements in real-time interaction and model performance.
+Even though some parts of the task are incomplete, this project shows a clear understanding of the basics of hand gesture recognition and can be improved further by adding real-time input and increasing model accuracy.
